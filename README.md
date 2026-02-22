@@ -6,7 +6,6 @@
 <h3 align="center">Software Engineer | AI Systems | Cloud-Native Architecture</h3>
 
 <p align="center">
-Building scalable systems at the intersection of AI, security, and distributed infrastructure.
 </p>
 
 ---
