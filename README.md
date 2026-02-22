@@ -18,7 +18,7 @@
 
 ---
 
-## 🔥 Current Focus
+##  Current Focus
 
 - AI-powered vulnerability remediation systems
 - Cloud-native microservices (Spring Boot + OpenShift)
@@ -41,9 +41,9 @@ PyTorch | TensorFlow | Pandas | Snowflake | PowerBI
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
-### 🧩 Compiler with Optimization Engine
+###  Compiler with Optimization Engine
 Full compiler pipeline (lexer → parser → semantic analysis → IR → MIPS)
 
 - Implemented constant folding, propagation & dead-code elimination
