@@ -14,7 +14,6 @@
 
 - 🎓 B.S. Computer Science (Big Data Analytics) – Grand Canyon University (GPA: 3.9)
 - 🔐 Software Engineering Intern @ Paychex
-- 🤖 Director of Operations @ Canyon AI Research
 
 ---
 
